@@ -6,7 +6,8 @@ layout: tabbed-assignment
 
 <!-- img class="overview-image" src="" -->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this lesson we'll begin our introduction to the ***principles*** of programming.
+We'll see how some of the most important steps come well before we actually begin to write code.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
